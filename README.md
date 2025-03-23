@@ -1,1 +1,1 @@
-# -secure-coding
+# secure-coding
